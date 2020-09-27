@@ -24,7 +24,7 @@
 
 <h2>📔 Description</h2>
 
-###
+### This application is to subscribe in a newsletter. It's possible list emails registered. All this made with serverless function and mongo db cloud
 
 `Application`
 
